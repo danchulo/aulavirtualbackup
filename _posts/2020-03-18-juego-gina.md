@@ -1,8 +1,7 @@
 ---
-layout: page
-title: "Juego Phaser"
-date: 2020-03-18 15:52:00 -0600
-categories: phaser
+layout: post
+title: "Indicaciones Juego GINA"
+date: 2014-04-30
 ---
 
 # Indicaciones Juego GINA
