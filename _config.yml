@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+
+baseurl: "/aulavirtualbackup" # the subpath of your site, e.g. /blog
+
+url: "https://indierodo.github.io/aulavirtualbackup"
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
