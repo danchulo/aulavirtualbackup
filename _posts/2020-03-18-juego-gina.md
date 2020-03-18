@@ -1,3 +1,8 @@
+layout: page
+title: "Juego Phaser"
+date: 2020-03-18 15:52:00 -0600
+categories: phaser
+
 # Indicaciones Juego GINA
 
 #### Sistemas copiados anula examen para las partes involucradas
