@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indicaciones Juego GINA"
-date: 2014-04-30
+date: 2020-03-18
 ---
 
 # Indicaciones Juego GINA
