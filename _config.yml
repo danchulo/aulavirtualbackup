@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 
-baseurl: "/aulavirtualbackup" # the subpath of your site, e.g. /blog
+baseurl: "/aulavirtualbackup/" # the subpath of your site, e.g. /blog
 
 url: "https://indierodo.github.io/aulavirtualbackup"
 
